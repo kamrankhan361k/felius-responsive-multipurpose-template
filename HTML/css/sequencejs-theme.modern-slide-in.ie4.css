@@ -1,0 +1,9 @@
+ /* Sequence slider (2 theme (index4.html) for ie)
+ ===================================================================*/
+#nav li {
+	display: inline;
+}
+
+#sequence ul {
+	margin-left: 0px !important;
+}

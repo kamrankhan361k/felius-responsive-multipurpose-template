@@ -1,0 +1,8 @@
+ /* Sequence slider (5 theme (index5.html) for ie)
+ ===================================================================*/
+#sequence ul {
+	margin-left: 0px !important;
+}
+#sequence-theme .main-text {
+	left: 0px !important;
+}

@@ -1,0 +1,10 @@
+/* IMG3
+====================================================================== */
+
+body {
+	background: url("../../images/bg/bg_img04.jpg") repeat scroll 0 0 transparent;
+	background-attachment: fixed;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
